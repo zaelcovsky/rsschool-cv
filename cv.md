@@ -11,7 +11,7 @@
 **Telegram:** [@chatwithstas](https://t.me/chatwithstas)   
 **LinkedIn:** [https://www.linkedin.com/in/stanislav-cherepanov/](https://www.linkedin.com/in/stanislav-cherepanov/)  
 **GitHub:** [github.com/zaelcovsky](https://github.com/zaelcovsky)  
-**rs-school Discord:** Stanislav (@zaelcovsky) 
+**Discord (rs-school):** Stanislav (@zaelcovsky) 
 
 ---
 
@@ -23,8 +23,8 @@ I'm a highly motivated and enthusiastic Junior Frontend Developer with a strong 
 ### Skills
 **Programming and mark-up languages:** JavaScript, Python, HTML5, CSS3  
 **RDBMS:** MySQL, PostgreSQL  
-**Methodologies:** Agile, Scrum  
 **Tools:** DevTools, Git, Postman, SoapUI, WebStorm, PyCharm, VSCode, Swagger, Figma, Trello   
+**Methodologies:** Agile, Scrum  
 
 ---
 
@@ -70,6 +70,7 @@ function fib(n) {
 * **Center for Educational Competencies of NTI** (2021 - 2022)  
     *Specialist*  
     Testing in the field of information technologies  
+
 ---
 
 ### Courses and certificates
