@@ -11,6 +11,7 @@
 **Telegram:** [@chatwithstas](https://t.me/chatwithstas)   
 **LinkedIn:** [https://www.linkedin.com/in/stanislav-cherepanov/](https://www.linkedin.com/in/stanislav-cherepanov/)  
 **GitHub:** [github.com/zaelcovsky](https://github.com/zaelcovsky)  
+**rs-school Discord:** Stanislav (@zaelcovsky) 
 
 ---
 
