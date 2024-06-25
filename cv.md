@@ -1,4 +1,4 @@
-![My Photo](photo.jpg)
+<img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihZB9IffiX2r8d6wN_u19LY4XhVdC7UX68Bh_3QPKFKj7jIfmmN7oX59wF7msxVZ1cNjh7QdDO11cMduT4N9W3x6WO6_N3Eg_ds=w3440-h1261-rw-v1" alt="my photo" width="270">
 
 # Stanislav Cherepanov
 ### Junior Frontend Developer
