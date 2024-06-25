@@ -5,7 +5,7 @@
 
 ---
 
-### Contact Informations
+### Contact Information
 **Email:** [spamforstas@email.com](mailto:spamforstas@email.com)  
 **Phone:** +79230000000  
 **Telegram:** [@chatwithstas](https://t.me/chatwithstas)   
