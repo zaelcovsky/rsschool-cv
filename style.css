@@ -11,12 +11,12 @@ body {
 /* Style the top navigation bar */
 .header {
     overflow: hidden;
-    background-color: #333;
+    background-color: #ddd;
 }
 
 .header h2 {
     overflow: hidden;
-    background-color: #333;
+    background-color: #ddd;
     padding: 10px;
 }
 
@@ -38,7 +38,7 @@ body {
 
 /* Style the content */
 .content {
-    background-color: #ddd;
+    background-color: #ffffff;
     padding: 10px;
     height: 400px; /* Should be removed. Only for demonstration */
 }
